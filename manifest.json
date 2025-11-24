@@ -1,0 +1,41 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "liberia.base44",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "liberia",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/690a4989ccd24d15996cb573/b5b103863_logo.png",
+      "type": "image/png",
+      "sizes": "591x591",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 591,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://liberia.base44.app/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "591x591",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 591,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "liberìa gestionale",
+  "description": "gestionale libri usati"
+}
