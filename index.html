@@ -12,13 +12,14 @@
     <script>
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", () => {
-          navigator.serviceWorker.register("/service-worker.js")
+          navigator.serviceWorker.register("/lib/service-worker.js")
             .catch(err => console.log("Service Worker error:", err));
         });
       }
     </script>
 
     <title>Libreria</title>
+
     <script type="module" crossorigin src="/lib/assets/index-DdJiWAIl.js"></script>
     <link rel="stylesheet" crossorigin href="/lib/assets/index-DRJOjFhq.css">
   </head>
@@ -26,4 +27,5 @@
   <body>
     <div id="root"></div>
   </body>
+
 </html>
